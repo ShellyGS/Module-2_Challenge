@@ -1,7 +1,7 @@
 # VBA-challenge
 
-This project analyzed stock market data for three years(2014, 2015, 2016) using VBA.
-The goal is to create a script that will loop through all the stocks for one year for each run and take the following information:
+This project analyzed stock data for using VBA.
+The goal is to create a script that will loop through all the worksheets for produce the following information:
 
 - The ticker symbol.
 
@@ -12,10 +12,8 @@ The goal is to create a script that will loop through all the stocks for one yea
 - The total stock volume of the stock.
 
 ## About the Script
-You can find the script inside the VBAStocks folder of this repository. The script file is called Multiple_year_stock_data_KM.xlsm.
+You can find the script inside the VBA-challenge folder of this repository. The script file is called alphabetical_testing.xlsm. The name of the VBA code is Stockprice_1()
 
 ## Sample Output
-After the script has completed, go to the Excel workbook, and you should see the results of the script.
-
-Here are screenshots of what the output looks like when I ran the scripts on my computer. These screenshots are also available in the VBAStocks/screenshots folder of this repository.
+Here are screenshots of the output is attached and are available in the repository
 
