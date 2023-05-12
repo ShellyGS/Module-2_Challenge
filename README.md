@@ -1,5 +1,4 @@
-# Module-2_Challenge
-VBA - Stock Market Analysis
+# VBA-challenge
 
 This project analyzed stock market data for three years(2014, 2015, 2016) using VBA.
 The goal is to create a script that will loop through all the stocks for one year for each run and take the following information:
